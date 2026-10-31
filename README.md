@@ -7,7 +7,7 @@ A small web app for a UK energy utility that buys power on the day-ahead market.
 
 The scope is January 2026. Data comes from Elexon BMRS: actuals from `FUELHH` (fuelType `WIND`) and forecasts from `WINDFOR`.
 
-**Live app:** `<VERCEL_URL>`
+**Live app:** https://wfm-7k3q.vercel.app
 
 ---
 
